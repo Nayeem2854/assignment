@@ -1,14 +1,18 @@
   
 .header{
     background-color: rgba(229, 84, 115, 0.10) ;
-    width: 1920px;
+    width: 100%;
     height: 850px;
+   
+    
 
     
 }
 .first{
   
     display: flex;
+    justify-content: space-between;
+    
    
 }
 .h-content{
@@ -32,7 +36,6 @@
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    
     margin-top: 30px;
 }
 .btn-primary{
@@ -44,23 +47,12 @@
     border-radius: 8px;
     background: #E55473;
     padding: 20px 43px;
-    border: 0px;
-   
-    
+    border: 0px;  
 }
-.first .h-img{
+.h-img{
     width: 635px;
     height: 800px;
     
-    
-    
-  
-}
-.h-img{
-   display: block; 
-    
-   
-
 }
 .f-content{
     text-align: center;
@@ -83,14 +75,7 @@
 .f-figure{
     display: flex;
     align-items: center;
-    justify-content: center;
-   
-   
-
-    
-  
-    
-    
+    justify-content: center; 
  
 }
 .f-pic-1{
