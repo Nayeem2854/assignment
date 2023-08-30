@@ -83,8 +83,6 @@
 .f-pic-1{
     width: 310px;
     height: 470px;
-
-   
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
  
@@ -108,6 +106,8 @@
 
 
 }
+
+
 .fp-caption{
     color: #272727;
     text-align: center;
@@ -119,24 +119,7 @@
     text-decoration-line: underline;
     
 }
-.ful-1{
-    width: 310px;
-    height: 428px;
-    
-    
-    
-}
-.ful-2{
-    width: 370px;
-    height: 370px;
-   
-}
-.ful-3{
-    width: 314px;
-    height: 471px;
-    
 
-}
 .background-3{
   
     border-radius: 8px;
@@ -207,7 +190,7 @@
     padding: 10px;
 }
 .background-input{
-    background-image: url('/Flower Asset/Rectangle\ 9.png');
+    background-image: url('Flower Asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
     margin: 128px 240px 128px 240px;
     
