@@ -78,9 +78,7 @@
 }
 .f-figure{
     display: flex;
-    align-items: center;
-    justify-content: center; 
- 
+    justify-content: center;
 }
 .f-pic-1{
     width: 310px;
@@ -124,6 +122,7 @@
 .ful-1{
     width: 310px;
     height: 428px;
+    
     
     
 }
@@ -262,6 +261,71 @@
     width: 150px;
     border:0px;
 
+}
+.review-form {
+    background-color: #E55473;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  textarea {
+    resize: vertical;
+  }
+  button {
+    background-color: black;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+.footer{
+    background: #111010;
+}
+.footer-h{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    padding-top: 128px;
+}
+.footer-p1{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+  
+}
+.footer-p2{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 130px;
 }
 
 
